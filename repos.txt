@@ -1,0 +1,29 @@
+# Список всех репозиториев для синхронизации
+# Формат: имя_репозитория
+
+app-example-angular
+app-example-beego
+app-example-celery
+app-example-django
+app-example-docker-compose
+app-example-docker-flask
+app-example-ember
+app-example-express
+app-example-fastapi
+app-example-fastify
+app-example-flask
+app-example-gin
+app-example-hapi
+app-example-laravel
+app-example-nest
+app-example-net-core
+app-example-next
+app-example-nuxt
+app-example-phoenix
+app-example-preact
+app-example-puppeteer
+app-example-react
+app-example-spring
+app-example-svelte
+app-example-symfony
+app-example-vue
